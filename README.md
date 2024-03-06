@@ -1,1 +1,1 @@
-https://gira98.github.io/final/
+github pages = https://gira98.github.io/final/
