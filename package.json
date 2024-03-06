@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Basic configuration of Webpack",
   "main": "index.js",
-  "homepage": "https://github.com/Gira98/finalMaket",
+  "homepage": "https://gira98.github.io/final/",
   "scripts": {
     "start": "set NODE_ENV=development&&webpack serve",
     "dev": "set NODE_ENV=development&&webpack",
